@@ -9,9 +9,9 @@ The Jupyter notebook contains material to help you learn how to explore data vis
 
 **https://github.com/Quantia-Analytics/DyDataSF2016Visualization**  
 
-This notebook was constructed using the Anconda 3.5 Python distribution. If you are not running version Anaconda 3.5 or higher, we suggest you update your Anaconda distribution now.  You can download the Python 3 Anaconda distribution for your operating system from the [Continum Analytics web site](https://www.continuum.io/downloads
+This notebook was constructed using the Anaconda 3.5 Python distribution. If you are not running version Anaconda 3.5 or higher, we suggest you update your Anaconda distribution now.  You can download the Python 3 Anaconda distribution for your operating system from the [Continum Analytics web site](https://www.continuum.io/downloads
 
-To run this notebook you need the seaborn graphics packages. If you have not done so, you will need to install seaborn as it is not in the Anaconda distribution as of now. From a command prompt on your computer type the following command. If no errors occur, you will have installed seaborn.
+To run this notebook you need the Seaborn graphics packages. If you have not done so, you will need to install Seaborn as it is not in the Anaconda distribution as of now. From a command prompt on your computer type the following command. If no errors occur, you will have installed Seaborn.
 
 ``pip install seaborn``
 
@@ -32,15 +32,15 @@ The key concept of exploratory data analysis (EDA) or visual exploration of data
 
 
 
-These lessons are divided into three parts. In each part you will learn how to use the visualization tools availble in Python.
+These lessons are divided into three parts. In each part you will learn how to use the visualization tools available in Python.
 
-- **Overview of plot types** is a reivew of creating basic plot types used to construct visualizations.
-- **Using Asthetics** is an overview of how to project additional plot dimensions using plot asthetics.
+- **Overview of plot types** is a review of creating basic plot types used to construct visualizations.
+- **Using Aesthetics** is an overview of how to project additional plot dimensions using plot aesthetics.
 - **Facetted plotting** also know as conditioned plotting or lattice plotting introduces a powerful method for visualizing higher dimensional data. 
 
-In these exercises, you will use both pandas plotting and the seaborn package. We assume you have at least a bit of experience using pandas and Jupyter notebooks.  
+In these exercises, you will use both Pandas plotting and the Seaborn package. We assume you have at least a bit of experience using Pandas and Jupyter notebooks.  
 
 
 ## Resources
 
-In this tutorial we will work with two powerful Python packages, Pandas and Seaborn. Both packages have extensive online documentation. There is an extensive tutorial on [**Visualizaton with Pandas**](http://pandas.pydata.org/pandas-docs/version/0.18.0/visualization.html).  The [**Seaborn tutorial**](https://stanford.edu/~mwaskom/software/seaborn/tutorial.html) contains many examples of data visualization. 
+In this tutorial we will work with two powerful Python packages, Pandas and Seaborn. Both packages have extensive online documentation. There is an extensive tutorial on [**Visualization with Pandas**](http://pandas.pydata.org/pandas-docs/version/0.18.0/visualization.html).  The [**Seaborn tutorial**](https://stanford.edu/~mwaskom/software/seaborn/tutorial.html) contains many examples of data visualization. 
